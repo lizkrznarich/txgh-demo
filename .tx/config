@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[txgh-demo.demo]
+file_filter = demo_<lang>.properties
+source_file = demo_en.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
